@@ -1,1 +1,0 @@
-# mediTrack-app
